@@ -9,6 +9,10 @@ export const RemoteConfigs: RemoteConfig[] = [
         value: "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/config/ACL4SSR_Online.ini"
     },
     {
+        key: "自动选择版",
+        value: "https://raw.githubusercontent.com/liandu2024/clash/refs/heads/main/Clash-LIAN.ini"
+    },
+    {
         key: "ACL_无测速版",
         value: "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/config/ACL4SSR_Online_NoAuto.ini"
     },
