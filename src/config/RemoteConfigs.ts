@@ -13,6 +13,10 @@ export const RemoteConfigs: RemoteConfig[] = [
         value: "https://raw.githubusercontent.com/WC-Dream/ACL4SSR/WD/Clash/config/ACL4SSR_Online_Full_Dream.ini"
     },
     {
+        key: "安格视界",
+        value: "https://raw.githubusercontent.com/liandu2024/clash/refs/heads/main/Clash-Full.ini"
+    },
+    {
         key: "ACL_无测速版",
         value: "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/config/ACL4SSR_Online_NoAuto.ini"
     },
